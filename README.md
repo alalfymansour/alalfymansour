@@ -13,7 +13,6 @@
 ### 🚀 About Me
 - 🧠 Passionate about clean architecture, backend logic & automation   
 - 🌱 Always learning and experimenting with new stacks  
-- 🎮 When I’m not coding, I’m testing ideas or gaming on FC25
 
 ---
 
